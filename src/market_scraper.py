@@ -387,11 +387,6 @@ class MarketDataScraper:
 📊 PE Ratio: {nifty_data['pe_ratio']}
 📍 Source: {nifty_source}
 
-**Market Mood Index:**
-🎯 MMI Value: {mmi_data['value']}
-🔮 Status: {mmi_data['status']}
-📍 Source: {mmi_source}
-
 **Market Insights:**
 {chr(10).join(insights)}
 
