@@ -393,10 +393,6 @@ class MarketDataScraper:
 **Investment Recommendations:**
 {chr(10).join(recommendations)}
 
-**Data Status:**
-✅ Successfully fetched from multiple reliable sources
-🔄 Auto-updated daily at 9:30 AM IST
-
 **Disclaimer:** This is automated analysis for educational purposes. Please consult financial advisor for investment decisions.
 """
         
